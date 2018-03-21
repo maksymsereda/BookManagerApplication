@@ -1,1 +1,2 @@
 # BookManagerApplication
+New project
