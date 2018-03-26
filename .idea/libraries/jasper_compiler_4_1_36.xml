@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jasper-compiler-4.1.36">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/jasper-compiler-4.1.36.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
